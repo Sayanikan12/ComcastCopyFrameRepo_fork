@@ -10,7 +10,7 @@ public class ProductPage {
 		System.out.println("Bye");
 	 System.out.println("hello");
 	 System.out.println("hi");
-	 System.out.println("hello world");
+	 System.out.println("hello ji");
 	}
 
 }
