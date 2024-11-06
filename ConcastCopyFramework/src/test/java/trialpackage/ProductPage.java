@@ -6,7 +6,6 @@ public class ProductPage {
 		System.out.println("i have added new product page");
 
  System.out.println("Added by sayani  ");
- System.out.println("hi");
 
 		
 	 System.out.println("hello");
